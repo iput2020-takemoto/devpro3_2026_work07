@@ -27,4 +27,4 @@ m4k74, My favorite food is pasta.
 IPUT-Yoshikawa, mainブランチで修正
 iput2024-yoshimoto, なるほど
 tk240043-ishikawa, My favorite is music
-
+tk240283-star, Some people eat to live; I live to eat.
